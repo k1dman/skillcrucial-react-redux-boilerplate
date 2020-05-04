@@ -21,7 +21,7 @@
 3. Create first build
 
   ```shell
-  $ yarn run build:prod
+
   ```
 4. Copy .env.example file to .env and make the necessary changes there
   
